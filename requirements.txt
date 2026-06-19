@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn==1.6.1
+fastapi
+uvicorn
+pydantic
+joblib
+mlflow
+python-multipart
+openml
+streamlit
+kafka-python

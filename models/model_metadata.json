@@ -1,0 +1,27 @@
+{
+  "best_model": "random_forest",
+  "numeric_features": [
+    "age",
+    "balance",
+    "day",
+    "duration",
+    "campaign",
+    "pdays",
+    "previous"
+  ],
+  "categorical_features": [
+    "job",
+    "marital",
+    "education",
+    "default",
+    "housing",
+    "loan",
+    "contact",
+    "month",
+    "poutcome"
+  ],
+  "target_mapping": {
+    "no": 0,
+    "yes": 1
+  }
+}
